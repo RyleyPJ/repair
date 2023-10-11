@@ -5,3 +5,7 @@ Drag and drop the resource into your resources file and make sure the -main is d
 If you have any issues please create an issue here
 
 This script has been fully tested so i know it works!
+
+# Credits 
+
+Ryley Jones - Developer/Owner
