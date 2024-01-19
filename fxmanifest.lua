@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Ryley Jones'
 description 'A repair script for your fivem server'
-version '1.0.0'
+version '1.0.1'
 
 client_script 'client.lua'
 
